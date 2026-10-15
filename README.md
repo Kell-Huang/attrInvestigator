@@ -14,7 +14,6 @@ It reads Import, Intermediate, and Export attributes, traces their relationships
 - Cleans HTML entities from attribute and source values.
 - Generates a formatted `.xlsx` report.
 - Uses the selected TXT filename as the report name.
-- Adds a timestamp to reduce the risk of overwriting an existing report.
 
 ## Requirements
 
